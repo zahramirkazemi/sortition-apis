@@ -1,0 +1,31 @@
+{
+  "Persons": [
+    {
+      "id": 0,
+      "name": "زهرا میرکاظمی",
+      "winned": false
+    },    
+    {
+      "id": 1,
+      "name": "کبری ابراهیمی",
+      "winned": false
+    },    
+    {
+      "id": 2,
+      "name": "لیلا ابراهیمی",
+      "winned": false
+    },
+    {
+      "id": 3,
+      "name": "ملیکا ملی",
+      "winned": false
+    }
+  ],
+  "winners": [
+    {
+      "id": 0,
+      "name": "مهر",
+      "winner-name": null
+    }
+  ]
+}
